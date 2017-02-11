@@ -1,3 +1,5 @@
+https://www.hackerrank.com/challenges/circular-array-rotation
+
 John Watson performs an operation called a right circular rotation on an array of integers, `[a0,a1,...a(n-1)]` . After performing one right circular rotation operation, the array is transformed from `[a0,a1,...a(n-1)]` to `[a(n-1),a0,...a(n-2)]`.
 
 Watson performs this operation `k`  times. To test Sherlock's ability to identify the current element at a particular position in the rotated array, Watson asks `q` queries, where each query consists of a single integer, `m`, for which you must print the element at index `m` in the rotated array (i.e., the value of `a(m)`).
