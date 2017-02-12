@@ -24,13 +24,10 @@ public class Solution {
             if (i == a * divd + divd) {
                 leftToRight += square;
             }
-            
-                    
+                   
             if (i == a * (divd + 1) - (divd + 1)) {
                 rightToLeft += square;
             }
-    
-            
             
         }
         
