@@ -6,9 +6,9 @@ You are given `n`, `k`, the cost of each of the `n` items, and the total amount 
 
 ### Input Format
 
-The first line contains two space-separated integers denoting the respective values of  (the number of items ordered) and  (the -based index of the item that Anna did not eat). 
-The second line contains  space-separated integers where each integer  denotes the cost, , of item  (where ). 
-The third line contains an integer, , denoting the amount of money that Brian charged Anna for her share of the bill.
+The first line contains two space-separated integers denoting the respective values of `n` (the number of items ordered) and `k` (the 0-based index of the item that Anna did not eat). 
+The second line contains `n` space-separated integers where each integer `i` denotes the cost, `c[i]`, of item `i` (where `0<= i <= n`). 
+The third line contains an integer, `b(charged)`, denoting the amount of money that Brian charged Anna for her share of the bill.
 
 ### Output Format
 
