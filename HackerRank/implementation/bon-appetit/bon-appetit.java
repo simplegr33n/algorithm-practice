@@ -4,7 +4,6 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         
         Scanner scanner = new Scanner(System.in);
         
@@ -17,7 +16,6 @@ public class Solution {
         }
         
         int charged = scanner.nextInt();
-        
         
         itemPrices.remove(k);
         
